@@ -19,7 +19,7 @@ public class Main {
                 return marka;
             }
         });
-+++
+
         for (car c1 : samochod){
             c1.print();
             System.out.println("-------------------");

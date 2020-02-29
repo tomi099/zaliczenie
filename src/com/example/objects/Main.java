@@ -30,6 +30,11 @@ public class Main {
             c1.print();
             System.out.println("-------------------");
         }
+
+        for (car c1 : samochod2){
+            c1.print();
+            System.out.println("-------------------");
+        }
     }
 
 }
